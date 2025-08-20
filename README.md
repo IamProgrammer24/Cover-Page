@@ -12,7 +12,7 @@ This is a **Nike-inspired landing page** designed to promote high-performance fo
 
 Check out the live version of this project here:
 
-🔗 [View Live Site](https://your-deployment-url.com)
+🔗 [View Live Site](https://cover-page.onrender.com/)
 
 ---
 
