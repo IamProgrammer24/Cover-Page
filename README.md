@@ -43,10 +43,10 @@ Follow these steps to clone and run the landing page locally on your machine:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/nike-landing-page.git
+git clone https://github.com/IamProgrammer24/Cover-Page.git
 
 # Step 2: Navigate into the project folder
-cd nike-landing-page
+cd Cover-Page
 
 # Step 3: Run
 cd npm run dev
